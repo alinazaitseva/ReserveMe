@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alinazaitseva/ReserveMe/issues"
   },
-  "homepage": "https://github.com/alinazaitseva/ReserveMe#readme"
+  "homepage": "https://github.com/alinazaitseva/ReserveMe#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0"
+  }
 }
