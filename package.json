@@ -25,5 +25,6 @@
     "express": "^4.16.2",
     "webpack": "^3.11.0",
     "webpack-dev-middleware": "^2.0.5"
-  }
+  },
+  "devDependencies": {}
 }
