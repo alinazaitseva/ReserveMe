@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+.Hungry-indexBody {
+  background: url('images/hungry_duck.jpg') 80% 80% no-repeat;
+  background-size: cover;
+  opacity: 0.6;
+  z-index: 1;
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
@@ -29,8 +35,10 @@
 
 .Hungry-background {
     height: 100vh;
-    background: url('images/hungry_duck.jpg') 80% 80% no-repeat;
-    background-size: cover;
-    opacity: 0.7;
-
+    /* opacity: 0.8; */
+    z-index: 2;
+}
+.rectangle {
+   width: 400px;	height: 80px;
+   background-color: black;
 }
